@@ -1,0 +1,32 @@
+td  {
+background-color: gray;
+color: white;
+padding: 10px
+}
+
+ 
+
+th  {
+    background-color: #EDEDED;
+    height: 50px;
+    padding: 5px
+    }
+
+ 
+
+tr {
+    text-align: center
+}
+
+ 
+
+td {
+    width: 50px;
+}
+
+ 
+
+.group {
+    background-color: #EDEDED;
+    height: 50px;
+}
